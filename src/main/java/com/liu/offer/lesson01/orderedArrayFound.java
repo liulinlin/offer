@@ -1,10 +1,6 @@
 package com.liu.offer.lesson01;
 
-/**
- * Hello world!
- *
- */
-public class test3 
+public class orderedArrayFound 
 {
 	public boolean Find(int [][] array ,int rows ,int colums,int number){
 		boolean found = false;

@@ -42,10 +42,17 @@ public class BinaryTreeBuilder {
 		root.right = buildTree(preOrder, start + length - i, inOrder, end, i);
 		return root;
 	}
+	
+	public static class Node{
+		Node left = null;
+		Node right = null;
+		char value;
+	}
 
 	public static void main(String[] args) {
 		char[] preOrder = new char[] { 'a', 'b', 'd', 'c', 'e', 'f' };
 		char[] inOrder = new char[] { 'd', 'b', 'a', 'e', 'c', 'f' };
 		Node root = buildTree(preOrder, 0, inOrder, inOrder.length - 1, inOrder.length);
 	}
+	
 }
