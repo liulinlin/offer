@@ -12,7 +12,7 @@ public class NumberOf1BitsTest {
 	}
 	@Test
 	public void test2() {
-		assertEquals(1, NumberOf1Bits.hammingWeight(2147483647));
+		assertEquals(1, NumberOf1Bits.hammingWeight(+0));
 	}
 
 }
