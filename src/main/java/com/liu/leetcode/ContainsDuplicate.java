@@ -1,6 +1,7 @@
 package com.liu.leetcode;
 
 import java.util.Arrays;
+import java.util.HashSet;
 
 
 public class ContainsDuplicate {
@@ -17,5 +18,14 @@ public class ContainsDuplicate {
 			}
 		}
 		return Flog;
+	}
+
+	// 大神做法
+	public boolean containsDuplicateT(int[] nums) {
+		HashSet<Integer> set = new HashSet<>();
+		for (int num : nums) {
+			if (!set.add(num)) return true;
+		}
+		return false;
 	}
 }
