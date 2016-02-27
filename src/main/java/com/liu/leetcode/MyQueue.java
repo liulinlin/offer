@@ -22,7 +22,7 @@ public class MyQueue {
 
     // Get the front element.
     public int peek() {
-
+        return 0;
     }
 
     // Return whether the queue is empty.
