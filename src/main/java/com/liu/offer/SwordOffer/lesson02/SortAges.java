@@ -1,4 +1,4 @@
-package com.liu.offer.lesson02;
+package com.liu.offer.SwordOffer.lesson02;
 
 public class SortAges {
 

@@ -1,8 +1,7 @@
-package com.liu.offer.lesson02;
+package com.liu.offer.SwordOffer.lesson02;
 
 import static org.junit.Assert.*;
 
-import com.liu.offer.lesson02.Min;
 import org.junit.Test;
 
 public class MinTest {

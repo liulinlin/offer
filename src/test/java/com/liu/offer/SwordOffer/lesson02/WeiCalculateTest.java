@@ -1,8 +1,7 @@
-package com.liu.offer.lesson02;
+package com.liu.offer.SwordOffer.lesson02;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
 import static org.junit.Assert.assertEquals;
 
 /**
