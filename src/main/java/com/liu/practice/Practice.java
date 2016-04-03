@@ -3,6 +3,7 @@ package com.liu.practice;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
+import java.util.Scanner;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
@@ -16,6 +17,10 @@ public class Practice {
 //        testValueInterger();
 //        testValueObject();
 //        testValueArray();
+//        IntTest();
+
+
+
     }
 
     public static void getSingleNumber(int[] array) {
@@ -92,5 +97,14 @@ public class Practice {
         p.setName("李四");
         p.setPassword("2222");
         System.out.println("testValueObject2中x的值 : "+p);
+    }
+// 测试 int 跟 Integer  == 是否相等
+    public static void IntTest(){
+        int num1 = 1;
+        Integer num1_ = new Integer(1);
+        int num2 = 255;
+        Integer num2_ = new Integer(255);
+        System.out.println(num1 == num1_); // int  跟 Integer 做 == ,会自动拆箱
+        System.out.println(num2 == num2_);
     }
 }
