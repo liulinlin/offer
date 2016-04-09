@@ -18,9 +18,6 @@ public class Practice {
 //        testValueObject();
 //        testValueArray();
 //        IntTest();
-
-
-
     }
 
     public static void getSingleNumber(int[] array) {

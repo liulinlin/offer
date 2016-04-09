@@ -8,7 +8,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * Created by 刘林林 on 2016/3/25.
  */
-public class PrintABC {
+public class PrintABC4 {
     public static final ReentrantLock LOCK = new ReentrantLock();
     private static final Condition COND_A = LOCK.newCondition();
     private static final Condition COND_B = LOCK.newCondition();
