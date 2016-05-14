@@ -23,7 +23,7 @@ public class ReverseLinkedList {
         {
             ListNode pivot = head;
             ListNode frontier = null;
-            while (pivot != null && pivot.next != null)
+            while (null != pivot.next)
             {
                 frontier = pivot.next;
                 pivot.next = pivot.next.next;

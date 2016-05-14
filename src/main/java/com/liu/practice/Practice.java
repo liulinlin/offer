@@ -1,10 +1,9 @@
 package com.liu.practice;
 
+import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
-import java.util.Scanner;
-import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * Created by 刘林林 on 2016/3/2.
@@ -18,6 +17,21 @@ public class Practice {
 //        testValueObject();
 //        testValueArray();
 //        IntTest();
+    }
+    /*
+    练习大数的 setBit 可以操作 权限
+     */
+    public static void PracticeBitInterger(){
+        BigInteger num = new BigInteger("0");
+        num = num.setBit(5000);
+        num = num.setBit(4000);
+        num = num.setBit(6000);
+        num = num.setBit(3000);
+        num = num.setBit(1);
+        System.out.println(num);
+        System.out.println(num.testBit(5000));
+        System.out.println(num.testBit(1));
+        System.out.println(num.testBit(3));
     }
 
     public static void getSingleNumber(int[] array) {
