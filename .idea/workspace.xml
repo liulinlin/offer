@@ -2,861 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d189f9a0-0dc0-461b-8ee8-e7b0728e7751" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/liu/practice/NIODemo/NIOClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/liu/practice/NIODemo/NIOServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/liu/practice/NIODemo/TestIntBuffer.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/SwordOffer/lesson01/orderedArrayFound.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/SwordOffer/lesson02/BinaryTreeBuilder$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/SwordOffer/lesson02/BinaryTreeBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/SwordOffer/lesson02/GetFibonacciNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/SwordOffer/lesson02/Min.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/SwordOffer/lesson02/SortAges.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/SwordOffer/lesson02/WeiCalculate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/SwordOffer/lesson02/quickSortClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/SwordOffer/lesson02/quickSortClass2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/SwordOffer/lesson03/DoublePower.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/SwordOffer/lesson03/HasSubTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/utils/BinaryTreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/Cake.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/ChocolateChip.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/ChocolateChip2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/Dinner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/FullQualification.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/IceCream.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/ImportedMyClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/LibTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/Lunch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/OrganizedByAccess.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/Pie.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/PrintTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/QualifiedMyClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/SingleImport.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/cookie2/Cookie.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/dessert/Cookie.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/access/mypackage/MyClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/AtUnitComposition.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/AtUnitExample1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/AtUnitExample2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/AtUnitExample3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/AtUnitExample4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/AtUnitExample5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/AtUnitExternalTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/ExtractInterface.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/HashSetTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/InterfaceExtractorProcessor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/InterfaceExtractorProcessorFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/Multiplier.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/PasswordUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/SimulatingNull.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/StackL.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/StackLStringTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/Testable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/UseCase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/UseCaseTracker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/database/Constraints.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/database/DBTable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/database/Member.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/database/SQLInteger.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/database/SQLString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/database/TableCreationProcessorFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/database/TableCreator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/database/Uniqueness.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/AlphabeticSearch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/ArrayOfGenericType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/ArrayOfGenerics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/ArrayOptions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/ArraySearching.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/AssemblingMultidimensionalArrays.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/AutoboxingArrays.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/CompType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/ComparatorTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/ComparingArrays.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/ContainerComparison.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/CopyingArrays.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/FillingArrays.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/GeneratorsTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/IceCream.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/MultiDimWrapperArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/MultidimensionalObjectArrays.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/MultidimensionalPrimitiveArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/ParameterizedArrayType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/PrimitiveConversionDemonstration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/RaggedArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/RandomGeneratorsTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/Reverse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/StringSorting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/TestGenerated.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/ThreeDWithNew.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/bangbean/BangBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/bangbean/BangBeanTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/ActiveObjectDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/AtomicEvenGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/AtomicIntegerTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/Atomicity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/AtomicityTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/AttemptLocking.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/BankTellerSimulation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/BasicThreads.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/CachedThreadPool.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/CallableDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/CaptureUncaughtException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/CarBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/Chopstick.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/CloseResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/CountDownLatchDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/CriticalSection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/DaemonFromFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/Daemons.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/DaemonsDontRunFinally.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/DeadlockingDiningPhilosophers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/DelayQueueDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/EvenChecker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/EvenGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/ExceptionThread.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/ExchangerDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/ExplicitCriticalSection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/FastSimulation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/Fat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/FixedDiningPhilosophers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/FixedThreadPool.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/GreenhouseScheduler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/HorseRace.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/IntGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/Interrupting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/Interrupting2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/InterruptingIdiom.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/Joining.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/LiftOff.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/ListComparisons.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/MainThread.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/MapComparisons.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/MoreBasicThreads.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/MultiLock.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/MutexEvenGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/NIOInterruption.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/NaiveExceptionHandling.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/NotifyVsNotifyAll.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/OrnamentalGarden.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/Philosopher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/PipedIO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/Pool.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/PriorityBlockingQueueDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/ReaderWriterList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/ResponsiveUI.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/Restaurant.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/SelfManaged.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/SemaphoreDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/SerialNumberChecker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/SerialNumberGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/SettingDefaultHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/SimpleDaemons.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/SimpleMicroBenchmark.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/SimplePriorities.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/SimpleThread.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/SingleThreadExecutor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/SleepingTask.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/SyncObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/SynchronizationComparisons.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/SynchronizedEvenGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/TestBlockingQueues.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/ThreadLocalVariableHolder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/ThreadVariations.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/ToastOMatic.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/restaurant2/RestaurantWithQueues.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/waxomatic/WaxOMatic.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/concurrency/waxomatic2/WaxOMatic2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/AssociativeArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/Bits.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/CanonicalMapping.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/CollectionDataGeneration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/CollectionDataTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/CollectionMethods.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/CountedString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/DequeTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/Enumerations.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/FailFast.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/FillingLists.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/Groundhog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/Groundhog2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/IndividualTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/LinkedHashMapDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/ListPerformance.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/ListSortSearch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/Lists.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/MapDataTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/MapEntry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/MapPerformance.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/Maps.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/Prediction.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/QueueBehavior.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/RandomBounds.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/ReadOnly.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/References.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/SetPerformance.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/SimpleHashMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/SlowMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/SortedMapDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/SortedSetDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/SpringDetector.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/SpringDetector2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/Stacks.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/StringHashCode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/Synchronization.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/TestParam.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/ToDoList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/TypesForSets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/Unsupported.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/containers/Utilities.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/control/BreakAndContinue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/control/CommaOperator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/control/ForEachFloat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/control/ForEachInt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/control/ForEachString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/control/IfElse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/control/IfElse2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/control/LabeledFor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/control/LabeledWhile.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/control/ListCharacters.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/control/VowelsAndConsonants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/control/WhileTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/AlarmPoints.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/BigEnumSet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/Burrito.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/CarWash.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/Competitor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/ConstantSpecificMethod.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/EnumClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/EnumMaps.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/EnumSets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/Input.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/NonEnum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/NotClasses.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/Outcome.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/OverrideConstantSpecific.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/OzWitch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/PostOffice.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/RandomTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/Reflection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/RoShamBo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/RoShamBo1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/RoShamBo2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/RoShamBo3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/RoShamBo4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/RoShamBo5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/RoShamBo6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/SecurityCategory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/SpaceShip.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/Spiciness.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/TrafficLight.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/UpcastEnum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/VendingMachine.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/VendingMachineInput.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/cartoons/EnumImplementation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/menu/Course.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/menu/Food.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/menu/Meal.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/menu/Meal2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/enumerated/menu/TypeOfFood.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/AlwaysFinally.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/Cleanup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/CleanupIdiom.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/DynamicFields.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/ExceptionMethods.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/ExceptionSilencer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/ExtraFeatures.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/FinallyWorks.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/FullConstructors.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/Human.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/InheritingExceptions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/InputFile.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/LoggingExceptions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/LoggingExceptions2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/LostMessage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/MainException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/MultipleReturns.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/NeverCaught.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/OnOffException1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/OnOffException2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/OnOffSwitch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/RethrowNew.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/Rethrowing.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/StormyInning.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/Switch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/TurnOffChecking.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/WhoCalled.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/exceptions/WithFinally.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/frogbean/Frog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Apply.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/ArrayMaker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/ArrayOfGeneric.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/ArrayOfGenericReference.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/BankTeller.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/BasicBounds.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/BasicGeneratorDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/BasicHolder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/ByteSet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/CRGWithBasicHolder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/CaptureConversion.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/CheckedList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/ClassCasting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/ClassTypeCapture.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/ComparablePet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/CompilerIntelligence.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/CountedObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/CovariantArrays.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/CovariantReturnTypes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/CreatorGeneric.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/CuriouslyRecurringGeneric.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/DogsAndRobots.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/DogsAndRobots.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/DynamicProxyMixin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/EpicBattle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Erased.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/ErasedTypeEquivalence.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/ErasureAndInheritance.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/ExplicitTypeSpecification.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/FactoryConstraint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Fibonacci.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Fill.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Fill2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/FilledListMaker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Functional.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Generators.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/GenericArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/GenericArray2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/GenericArrayWithTypeToken.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/GenericCast.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/GenericHolder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/GenericMethods.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/GenericReading.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/GenericVarargs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/GenericWriting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/GenericsAndCovariance.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/GenericsAndReturnTypes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/HasF.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/HijackedInterface.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Holder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Holder1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Holder2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Holder3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/InheritBounds.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/InstantiateGenericType.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/InstantiateGenericType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/IterableFibonacci.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/LatentReflection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/LimitsOfInference.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/LinkedStack.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/ListMaker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/ListOfGenerics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/ListOfInt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/LostInformation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Manipulation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Manipulator2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Manipulator3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Mixins.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Mixins.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/MultipleInterfaceVariants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/NeedCasting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/NonCovariantGenerics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/NotSelfBounded.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/OrdinaryArguments.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Performs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/PlainGenericInheritance.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/PrimitiveGenericTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/RandomList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/RestrictedComparablePets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/ReturnGenericType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/SelfBounding.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/SelfBoundingAndCovariantArguments.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/SelfBoundingMethods.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/SimpleDogsAndRobots.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/SimpleHolder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/SimpleQueue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/SimplerPets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Store.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/SuperTypeWildcards.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Templates.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/ThrowGenericException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/TupleList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/TupleTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/TupleTest2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/UnboundedWildcards1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/UnboundedWildcards2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Unconstrained.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/UseList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/UseList2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/WatercolorSets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/Wildcards.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/coffee/Americano.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/coffee/Breve.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/coffee/Cappuccino.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/coffee/Coffee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/coffee/CoffeeGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/coffee/Latte.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/coffee/Mocha.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/decorator/Decoration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/generics/watercolors/Watercolors.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/BangBean2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/BeanDumper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/BorderLayout1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/Borders.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/Button1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/Button2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/Button2b.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/ButtonGroups.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/Buttons.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/CheckBoxes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/ColorBoxes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/ComboBoxes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/Dialogs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/Face0.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/Face1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/Face2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/Face3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/Face4.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/Faces.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/FileChooserTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/FlowLayout1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/GridLayout1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/HTMLButton.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/HelloLabel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/HelloSwing.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/InterruptableLongRunningCallable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/InterruptableLongRunningTask.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/List.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/LongRunningTask.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/LookAndFeel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/Menus.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/MessageBoxes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/MonitoredLongRunningCallable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/Popup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/Progress.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/RadioButtons.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/ShowAddListeners.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/SimpleMenus.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/SineWave.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/SubmitLabelManipulationTask.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/SubmitSwingProgram.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/TabbedPane1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/TextArea.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/TextFields.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/TextPane.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/TicTacToe.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/TrackEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/flex/Song.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/flex/SongService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/flex/build-command.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/flex/helloflex1.mxml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/flex/helloflex2.mxml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/flex/songScript.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/flex/songStyles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/flex/songs.mxml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/jnlp/JnlpFileChooser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/jnlp/filechooser.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/jnlp/filechooser.jnlp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/gui/jnlp/mindview.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/AdapterMethodIdiom.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/AddingGroups.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/ApplesAndOrangesWithGenerics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/ApplesAndOrangesWithoutGenerics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/ArrayIsNotIterable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/AsListInference.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/CollectionSequence.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/ContainerMethods.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/CrossContainerIteration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/EnvironmentVariables.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/ForEachCollections.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/GenericsAndUpcasting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/InterfaceVsIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/IterableClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/LinkedListFeatures.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/ListFeatures.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/ListIteration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/MapOfList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/ModifyingArraysAsList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/MultiIterableClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/NonCollectionSequence.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/PetMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/PrintingContainers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/PriorityQueueDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/QueueDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/SetOfInteger.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/SetOperations.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/SimpleCollection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/SimpleIteration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/SortedSetOfInteger.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/StackCollision.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/StackTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/Statistics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/UniqueWords.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/holding/UniqueWordsAlphabetic.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/Apricot.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/ArrayClassObj.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/ArrayInit.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/ArrayNew.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/ArraysOfPrimitives.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/AutoboxingVarargs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/BananaPeel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/Burrito.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/Counter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/DefaultConstructor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/Demotion.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/DynamicArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/EnumOrder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/ExplicitStatic.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/Flower.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/InitialValues.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/InitialValues2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/Leaf.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/Measurement.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/MethodInit.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/MethodInit2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/MethodInit3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/Mugs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/NewVarArgs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/NoSynthesis.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/OptionalTrailingArguments.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/OrderOfInitialization.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/Overloading.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/OverloadingOrder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/OverloadingVarargs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/OverloadingVarargs2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/OverloadingVarargs3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/PassingThis.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/PrimitiveOverloading.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/SimpleConstructor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/SimpleConstructor2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/SimpleEnumUse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/Spiciness.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/Spoon.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/StaticInitialization.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/TerminationCondition.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/VarArgs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/initialization/VarargType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/AnonymousConstructor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/BigEgg.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/BigEgg2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Callbacks.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/ClassInInterface.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Contents.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Destination.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/DotNew.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/DotThis.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Factories.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Games.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/GreenhouseController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/GreenhouseControls.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/InheritInner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/LocalInnerClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/MultiImplementation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/MultiInterfaces.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/MultiNestingAccess.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Parcel1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Parcel10.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Parcel11.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Parcel2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Parcel3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Parcel5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Parcel6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Parcel7.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Parcel7b.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Parcel8.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Parcel9.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Sequence.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/TestBed.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/TestParcel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/Wrapping.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/controller/Controller.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/innerclasses/controller/Event.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/AdaptedRandomDoubles.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/Adventure.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/Factories.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/Games.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/HorrorShow.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/InterfaceCollision.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/Months.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/RandVals.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/RandomDoubles.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/RandomWords.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/TestRandVals.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/classprocessor/Apply.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/filters/BandPass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/filters/Filter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/filters/HighPass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/filters/LowPass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/filters/Waveform.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/interfaceprocessor/Apply.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/interfaceprocessor/FilterProcessor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/interfaceprocessor/Processor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/interfaceprocessor/StringProcessor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/music4/Music4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/music5/Music5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/interfaces/nesting/NestingInterfaces.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/Alien.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/AvailableCharSets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/BasicFileOutput.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/Blip3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/Blips.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/BufferToText.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/BufferedInputFile.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/ChangeSystemOut.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/ChannelCopy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/DirList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/DirList2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/DirList3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/DirectoryDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/Echo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/Endians.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/FileLocking.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/FileOutputShortcut.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/FormattedMemoryInput.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/FreezeAlien.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/GZIPcompress.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/GetChannel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/GetData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/IntBufferDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/LargeMappedFiles.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/LockingMappedFiles.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/Logon.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/MakeDirectories.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/MappedIO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/MemoryInput.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/MyWorld.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/OSExecuteDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/PreferencesDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/RecoverCADState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/Redirecting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/SerialCtl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/StoreCADState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/StoringAndRecoveringData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/TestEOF.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/TransferTo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/UsingBuffers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/UsingRandomAccessFile.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/ViewBuffers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/Worm.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/ZipCompress.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/io/xfiles/ThawAlien.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/atunit/AtUnit.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/atunit/AtUnitRemover.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/atunit/ClassNameFinder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/atunit/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/atunit/TestObjectCleanup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/atunit/TestObjectCreate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/atunit/TestProperty.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/simple/List.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/simple/Vector.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/BasicGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/BinaryFile.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/CollectionData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/ContainerMethodDifferences.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/ConvertTo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/CountingGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/CountingIntegerList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/CountingMapData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/Countries.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/DaemonThreadFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/DaemonThreadPoolExecutor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/Deque.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/Directory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/Enums.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/FiveTuple.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/FourTuple.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/Generated.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/Generator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/Hex.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/MapData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/New.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/Null.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/OSExecute.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/OSExecuteException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/PPrint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/Pair.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/Print.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/ProcessFiles.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/RandomGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/Range.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/Sets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/Stack.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/SwingConsole.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/TaskItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/TaskManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/TextFile.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/ThreeTuple.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/Tuple.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/TwoTuple.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/net/mindview/util/TypeCounter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/object/Documentation1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/object/Documentation2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/object/Documentation3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/object/HelloDate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/object/ShowProperties.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/AllOps.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/Assignment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/AutoInc.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/BitManipulation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/Bool.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/Casting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/CastingNumbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/EqualsMethod.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/EqualsMethod2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/Equivalence.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/Exponents.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/HelloDate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/Literals.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/MathOps.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/Overflow.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/PassObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/Precedence.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/RoundingNumbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/ShortCircuit.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/StringOperators.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/TernaryIfElse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/operators/URShift.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/CovariantReturn.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/FieldAccess.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/Frog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/PolyConstructors.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/PrivateOverride.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/RTTI.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/ReferenceCounting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/Sandwich.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/Shapes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/StaticPolymorphism.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/Transmogrify.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/music/Instrument.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/music/Music.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/music/Music2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/music/Note.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/music/Wind.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/music3/Music3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/shape/Circle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/shape/RandomShapeGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/shape/Shape.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/shape/Square.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/polymorphism/shape/Triangle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/Bath.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/Beetle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/BlankFinal.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/CADSystem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/Car.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/Cartoon.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/Chess.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/Detergent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/FinalArguments.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/FinalData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/FinalOverridingIllusion.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/Hide.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/Jurassic.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/Lisa.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/Orc.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/PlaceSetting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/SpaceShip.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/SpaceShipControls.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/SpaceShipDelegation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/SprinklerSystem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/reusing/Wind.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/ArrayListDisplay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/BetterRead.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/Concatenation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/Conversion.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/DatabaseException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/Finding.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/Groups.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/Immutable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/InfiniteRecursion.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/IntegerMatch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/JGrep.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/ReFlags.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/Receipt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/Replacing.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/ReplacingStringTokenizer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/Resetting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/Rudolph.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/ScannerDelimiter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/SimpleFormat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/SimpleRead.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/SplitDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/Splitting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/StartEnd.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/TestRegularExpression.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/TheReplacements.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/ThreatAnalyzer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/Turtle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/UsingStringBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/strings/WhitherStringBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/swt/ColorBoxes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/swt/DisplayEnvironment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/swt/DisplayProperties.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/swt/HelloSWT.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/swt/Menus.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/swt/ShellsAreMainWindows.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/swt/SineWave.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/swt/TabbedPane.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/swt/util/SWTApplication.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/swt/util/SWTConsole.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/AnonymousImplementation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/BoundedClassReferences.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/ClassCasts.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/ClassInitialization.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/FamilyVsExactType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/FilledList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/GenericClassReferences.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/HiddenImplementation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/InnerImplementation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/InterfaceViolation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/ModifyingPrivateFields.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/NullRobot.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/Operation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/PetCount.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/PetCount2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/PetCount3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/PetCount4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/Position.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/RegisteredFactories.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/Robot.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/SelectingMethods.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/Shapes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/ShowMethods.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/SimpleDynamicProxy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/SimpleProxyDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/SnowRemovalRobot.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/Staff.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/SweetShop.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/WildcardClassReferences.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/factory/Factory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/interfacea/A.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/packageaccess/HiddenC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/Cymric.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/Dog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/EgyptianMau.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/ForNameCreator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/Hamster.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/Individual.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/LiteralPetCreator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/Manx.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/Mouse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/Mutt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/Pet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/PetCreator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/Pets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/Pug.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/Rat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/pets/Rodent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/toys/GenericToyTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/typeinfo/toys/ToyTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/xml/People.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/xml/Person.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/ABTalk.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/ABTalk.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ReverseLinkedList.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ReverseLinkedList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Practice.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Practice.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/liu/practice/Practice.java" afterPath="$PROJECT_DIR$/src/main/java/com/liu/practice/Practice.java" />
     </list>
     <ignored path="offer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -887,38 +35,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NIOServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/NIODemo/NIOServer.java">
+      <file leaf-file-name="Practice.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/Practice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="102" column="24" selection-start-line="102" selection-start-column="7" selection-end-line="102" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.6904488">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1208#1238#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NIOClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/NIODemo/NIOClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1129#1159#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestIntBuffer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/NIODemo/TestIntBuffer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5760369">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -990,11 +114,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/ALi/Main2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/ALi/Account.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/LRULinkedHashMapDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/Practice.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/NIODemo/NIOServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/NIODemo/NIOClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/NIODemo/TestIntBuffer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/InterfaceExtractorProcessorFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/Practice.java" />
       </list>
     </option>
   </component>
@@ -1078,6 +202,114 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -1131,26 +363,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="offer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="offer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="offer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1161,7 +373,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2816092" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -1756,7 +968,8 @@
       <workItem from="1460855498320" duration="3284000" />
       <workItem from="1460860537123" duration="912000" />
       <workItem from="1461148958028" duration="4932000" />
-      <workItem from="1463241685709" duration="3476000" />
+      <workItem from="1463241685709" duration="3510000" />
+      <workItem from="1463296412414" duration="2792000" />
     </task>
     <task id="LOCAL-00001" summary="leetCode">
       <created>1456297813874</created>
@@ -1812,7 +1025,13 @@
       <option name="project" value="LOCAL" />
       <updated>1463266674883</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="leetCode">
+      <created>1463295871057</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1463295871057</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1848,7 +1067,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177186000" />
+    <option name="totallyTimeSpent" value="180012000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1861,7 +1080,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1869,25 +1088,25 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.5021322" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25586355" sideWeight="0.5256125" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32664436" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4935484" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15191898" sideWeight="0.47438753" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2954292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15191898" sideWeight="0.47438753" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850778" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2954292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1901,18 +1120,18 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20842217" sideWeight="0.5172798" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20842217" sideWeight="0.5172798" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32756758" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4935484" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20842217" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2954292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2177,175 +1396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28846154">
           <caret line="609" column="60" selection-start-line="609" selection-start-column="39" selection-end-line="609" selection-end-column="60" />
-          <folding>
-            <element signature="docComment;class#Scanner#0" expanded="false" />
-            <element signature="class#13768:14006" expanded="false" />
-            <element signature="docComment;field#groupSeparator#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;field#boolPattern#0;class#Scanner#0" expanded="false" />
-            <element signature="method#boolPattern#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;field#integerPattern#0;class#Scanner#0" expanded="false" />
-            <element signature="method#buildIntegerPatternString#0;class#Scanner#0" expanded="false" />
-            <element signature="e#15830#15883#0" expanded="false" />
-            <element signature="e#16267#16332#0" expanded="false" />
-            <element signature="method#integerPattern#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;field#separatorPattern#0;class#Scanner#0" expanded="false" />
-            <element signature="method#separatorPattern#0;class#Scanner#0" expanded="false" />
-            <element signature="method#linePattern#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;field#floatPattern#0;class#Scanner#0" expanded="false" />
-            <element signature="method#buildFloatAndDecimalPattern#0;class#Scanner#0" expanded="false" />
-            <element signature="method#floatPattern#0;class#Scanner#0" expanded="false" />
-            <element signature="method#decimalPattern#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#Scanner#0;class#Scanner#0" expanded="false" />
-            <element signature="method#Scanner#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#Scanner#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#Scanner#2;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#Scanner#3;class#Scanner#0" expanded="false" />
-            <element signature="method#Scanner#3;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#toCharset#0;class#Scanner#0" expanded="false" />
-            <element signature="method#toCharset#0;class#Scanner#0" expanded="false" />
-            <element signature="method#makeReadable#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#Scanner#4;class#Scanner#0" expanded="false" />
-            <element signature="method#Scanner#4;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#Scanner#5;class#Scanner#0" expanded="false" />
-            <element signature="method#Scanner#5;class#Scanner#0" expanded="false" />
-            <element signature="method#Scanner#6;class#Scanner#0" expanded="false" />
-            <element signature="method#toDecoder#0;class#Scanner#0" expanded="false" />
-            <element signature="method#makeReadable#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#Scanner#7;class#Scanner#0" expanded="false" />
-            <element signature="method#Scanner#7;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#Scanner#8;class#Scanner#0" expanded="false" />
-            <element signature="method#Scanner#8;class#Scanner#0" expanded="false" />
-            <element signature="method#Scanner#9;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#Scanner#10;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#Scanner#11;class#Scanner#0" expanded="false" />
-            <element signature="method#Scanner#11;class#Scanner#0" expanded="false" />
-            <element signature="method#makeReadable#2;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#Scanner#12;class#Scanner#0" expanded="false" />
-            <element signature="method#Scanner#12;class#Scanner#0" expanded="false" />
-            <element signature="method#revertState#0;class#Scanner#0" expanded="false" />
-            <element signature="method#revertState#1;class#Scanner#0" expanded="false" />
-            <element signature="method#cacheResult#0;class#Scanner#0" expanded="false" />
-            <element signature="method#cacheResult#1;class#Scanner#0" expanded="false" />
-            <element signature="method#clearCaches#0;class#Scanner#0" expanded="false" />
-            <element signature="method#getCachedResult#0;class#Scanner#0" expanded="false" />
-            <element signature="method#useTypeCache#0;class#Scanner#0" expanded="false" />
-            <element signature="method#readInput#0;class#Scanner#0" expanded="false" />
-            <element signature="method#makeSpace#0;class#Scanner#0" expanded="false" />
-            <element signature="method#translateSavedIndexes#0;class#Scanner#0" expanded="false" />
-            <element signature="method#throwFor#0;class#Scanner#0" expanded="false" />
-            <element signature="method#hasTokenInBuffer#0;class#Scanner#0" expanded="false" />
-            <element signature="method#getCompleteTokenInBuffer#0;class#Scanner#0" expanded="false" />
-            <element signature="e#33470#33532#0" expanded="false" />
-            <element signature="e#34124#34184#0" expanded="false" />
-            <element signature="e#34596#34655#0" expanded="false" />
-            <element signature="e#34895#34952#0" expanded="false" />
-            <element signature="e#36093#36157#0" expanded="false" />
-            <element signature="e#36811#36868#0" expanded="false" />
-            <element signature="method#findPatternInBuffer#0;class#Scanner#0" expanded="false" />
-            <element signature="e#38072#38124#0" expanded="false" />
-            <element signature="e#38557#38620#0" expanded="false" />
-            <element signature="method#matchPatternInBuffer#0;class#Scanner#0" expanded="false" />
-            <element signature="method#ensureOpen#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#close#0;class#Scanner#0" expanded="false" />
-            <element signature="method#close#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#ioException#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#delimiter#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#useDelimiter#0;class#Scanner#0" expanded="false" />
-            <element signature="method#useDelimiter#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#useDelimiter#1;class#Scanner#0" expanded="false" />
-            <element signature="method#useDelimiter#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#locale#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#useLocale#0;class#Scanner#0" expanded="false" />
-            <element signature="method#useLocale#0;class#Scanner#0" expanded="false" />
-            <element signature="e#43374#43432#0" expanded="false" />
-            <element signature="e#43618#43670#0" expanded="false" />
-            <element signature="e#44453#44510#0" expanded="false" />
-            <element signature="docComment;method#radix#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#useRadix#0;class#Scanner#0" expanded="false" />
-            <element signature="method#useRadix#0;class#Scanner#0" expanded="false" />
-            <element signature="method#setRadix#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#match#0;class#Scanner#0" expanded="false" />
-            <element signature="method#match#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#toString#0;class#Scanner#0" expanded="false" />
-            <element signature="method#toString#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNext#0;class#Scanner#0" expanded="false" />
-            <element signature="method#hasNext#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#next#0;class#Scanner#0" expanded="false" />
-            <element signature="method#next#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#remove#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNext#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#next#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNext#2;class#Scanner#0" expanded="false" />
-            <element signature="method#hasNext#2;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#next#2;class#Scanner#0" expanded="false" />
-            <element signature="method#next#2;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNextLine#0;class#Scanner#0" expanded="false" />
-            <element signature="method#hasNextLine#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#nextLine#0;class#Scanner#0" expanded="false" />
-            <element signature="method#nextLine#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#findInLine#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#findInLine#1;class#Scanner#0" expanded="false" />
-            <element signature="method#findInLine#1;class#Scanner#0" expanded="false" />
-            <element signature="e#59160#59219#0" expanded="false" />
-            <element signature="docComment;method#findWithinHorizon#0;class#Scanner#0" expanded="false" />
-            <element signature="method#findWithinHorizon#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#findWithinHorizon#1;class#Scanner#0" expanded="false" />
-            <element signature="method#findWithinHorizon#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#skip#0;class#Scanner#0" expanded="false" />
-            <element signature="method#skip#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#skip#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNextBoolean#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#nextBoolean#0;class#Scanner#0" expanded="false" />
-            <element signature="method#nextBoolean#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNextByte#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNextByte#1;class#Scanner#0" expanded="false" />
-            <element signature="method#hasNextByte#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#nextByte#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#nextByte#1;class#Scanner#0" expanded="false" />
-            <element signature="method#nextByte#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNextShort#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNextShort#1;class#Scanner#0" expanded="false" />
-            <element signature="method#hasNextShort#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#nextShort#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#nextShort#1;class#Scanner#0" expanded="false" />
-            <element signature="method#nextShort#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNextInt#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNextInt#1;class#Scanner#0" expanded="false" />
-            <element signature="method#hasNextInt#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#processIntegerToken#0;class#Scanner#0" expanded="false" />
-            <element signature="method#processIntegerToken#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#nextInt#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#nextInt#1;class#Scanner#0" expanded="false" />
-            <element signature="method#nextInt#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNextLong#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNextLong#1;class#Scanner#0" expanded="false" />
-            <element signature="method#hasNextLong#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#nextLong#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#nextLong#1;class#Scanner#0" expanded="false" />
-            <element signature="method#nextLong#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#processFloatToken#0;class#Scanner#0" expanded="false" />
-            <element signature="method#processFloatToken#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNextFloat#0;class#Scanner#0" expanded="false" />
-            <element signature="method#hasNextFloat#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#nextFloat#0;class#Scanner#0" expanded="false" />
-            <element signature="method#nextFloat#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNextDouble#0;class#Scanner#0" expanded="false" />
-            <element signature="method#hasNextDouble#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#nextDouble#0;class#Scanner#0" expanded="false" />
-            <element signature="method#nextDouble#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNextBigInteger#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNextBigInteger#1;class#Scanner#0" expanded="false" />
-            <element signature="method#hasNextBigInteger#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#nextBigInteger#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#nextBigInteger#1;class#Scanner#0" expanded="false" />
-            <element signature="method#nextBigInteger#1;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#hasNextBigDecimal#0;class#Scanner#0" expanded="false" />
-            <element signature="method#hasNextBigDecimal#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#nextBigDecimal#0;class#Scanner#0" expanded="false" />
-            <element signature="method#nextBigDecimal#0;class#Scanner#0" expanded="false" />
-            <element signature="docComment;method#reset#0;class#Scanner#0" expanded="false" />
-            <element signature="method#reset#0;class#Scanner#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2402,7 +1452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3452244">
           <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2410,7 +1459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1726122">
           <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2418,25 +1466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3164557">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#754#755#0" expanded="false" />
-            <element signature="e#794#795#0" expanded="false" />
-            <element signature="e#845#846#0" expanded="false" />
-            <element signature="e#890#891#0" expanded="false" />
-            <element signature="e#930#931#0" expanded="false" />
-            <element signature="e#973#974#0" expanded="false" />
-            <element signature="e#1030#1031#0" expanded="false" />
-            <element signature="e#1081#1082#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/Practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6329114">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2444,32 +1473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5178366">
           <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1993#2009#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/NIODemo/NIOServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="102" column="24" selection-start-line="102" selection-start-column="7" selection-end-line="102" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1208#1238#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/NIODemo/NIOClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1129#1159#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2478,6 +1481,46 @@
         <state vertical-scroll-proportion="0.5760369">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/NIODemo/NIOClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6543779">
+          <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1129#1159#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/NIODemo/NIOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68317974">
+          <caret line="102" column="24" selection-start-line="102" selection-start-column="7" selection-end-line="102" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1208#1238#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14863259">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/Practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6904488">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2564,7 +1607,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,5 +1,8 @@
 package com.liu.practice;
 
+import java.lang.reflect.InvocationHandler;
+import java.lang.reflect.Method;
+import java.lang.reflect.Proxy;
 import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -18,6 +21,19 @@ public class Practice {
 //        testValueArray();
 //        IntTest();
     }
+    /*
+    实验 proxy
+     */
+    public  static void testProxy(){
+
+        Person p = (Person) Proxy.newProxyInstance(Person.class.getClassLoader(), Person.class.getInterfaces(), new InvocationHandler() {
+            @Override
+            public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+                return method.invoke(proxy,args);
+            }
+        });
+    }
+
     /*
     练习大数的 setBit 可以操作 权限
      */
