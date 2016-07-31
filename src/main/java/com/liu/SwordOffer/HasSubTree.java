@@ -1,4 +1,4 @@
-package com.liu.SwordOffer.lesson03;
+package com.liu.SwordOffer;
 
 import com.liu.utils.BinaryTreeNode;
 

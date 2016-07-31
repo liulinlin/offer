@@ -2,123 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d189f9a0-0dc0-461b-8ee8-e7b0728e7751" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/liu/offer/BaiYunShan/CountNum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/liu/practice/ConsistentHashingAlgorithm/Case02/ConsistentHash.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/ABTalk.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/ABTalk.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/ABTalk1.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/ABTalk1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/BasketBall.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/BasketBall.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/Cmp$Node.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/Cmp$Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/Cmp.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/Cmp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/Finder.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/Finder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/HuiWen.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/HuiWen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/MaxSpace.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/MaxSpace.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/MoveTable.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/MoveTable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/PaoTaiDaRen.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/PaoTaiDaRen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/SaoMiaoTouJing.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/SaoMiaoTouJing.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/XiaoMingDaGuai.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/XiaoMingDaGuai.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/AddDigits.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/AddDigits.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/AddTwoNumbers$ListNode.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/AddTwoNumbers$ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/AddTwoNumbers.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/AddTwoNumbers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ClimbingStairs.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ClimbingStairs.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ContainsDuplicate.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ContainsDuplicate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ContainsDuplicateII.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ContainsDuplicateII.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ExcelSheetColumnNumber.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ExcelSheetColumnNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/FactorialTrailingZeroes.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/FactorialTrailingZeroes.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/FindMedianSortedArrays.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/FindMedianSortedArrays.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/HappyNumber.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/HappyNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/HouseRobber.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/HouseRobber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/LengthOfLongestSubstring.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/LengthOfLongestSubstring.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ListNode.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MajorityElement.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MajorityElement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MaximumDepthOfBinaryTree$TreeNode.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MaximumDepthOfBinaryTree$TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MaximumDepthOfBinaryTree.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MaximumDepthOfBinaryTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MergeSortedArray.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MergeSortedArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MergeTwoSortedLists.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MergeTwoSortedLists.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MoveZeroes.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MoveZeroes.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MyQueue.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MyQueue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/NimGame.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/NimGame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/NumberOf1Bits.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/NumberOf1Bits.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PascalTriangle.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PascalTriangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PascalTriangleII.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PascalTriangleII.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PlusOne.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PlusOne.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PowerOfTwo.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PowerOfTwo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/RemoveElement.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/RemoveElement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ReverseLinkedList.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ReverseLinkedList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/Roman2Integer.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/Roman2Integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/RotateArray.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/RotateArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/Triangle.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/Triangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/TwoSum.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/TwoSum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/UglyNumber.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/UglyNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/UniquePaths.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/UniquePaths.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/UniquePathsWithObstacles.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/UniquePathsWithObstacles.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/WordSearch.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/WordSearch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2$1.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2$2.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main3.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/Tencent/MyMultiply.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/Tencent/MyMultiply.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/JuZhen.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/JuZhen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/Main.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/Main2.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/Main2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/Test.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/pattern/singleton/Client.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/pattern/singleton/Client.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/pattern/singleton/Singleton01.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/pattern/singleton/Singleton01.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/pattern/singleton/Singleton02.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/pattern/singleton/Singleton02.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/AbstractTemplate.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/AbstractTemplate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/Client.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/Client.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/ConcreteTemplate.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/ConcreteTemplate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/ConcreteTemplate2.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/ConcreteTemplate2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/BitOperate.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/BitOperate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/CalculatePath$Obstacle.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/CalculatePath$Obstacle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/CalculatePath$Point.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/CalculatePath$Point.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/CalculatePath.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/CalculatePath.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/Girl.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/Girl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/Immutable.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/Immutable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/JoinerTest.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/JoinerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/Ordering01.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/Ordering01.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/testMultset.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/testMultset.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/LittlePractice01.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/LittlePractice01.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Person.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Practice.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Practice.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/annotation/Person.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/annotation/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/annotation/Test.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/annotation/Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/reflect/ClassTest.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/reflect/ClassTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/reflect/ClassUtil.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/reflect/ClassUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/serializable/Person.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/serializable/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/serializable/PersonTest.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/serializable/PersonTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC1$Run.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC1$Run.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC1.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC2$Run.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC2$Run.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC2.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC3$Run.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC3$Run.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC3.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintATask.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintATask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintBTask.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintBTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintCTask.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintCTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/ThreadPoolExecutor/MyTask.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/ThreadPoolExecutor/MyTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/ThreadPoolExecutor/Test.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/ThreadPoolExecutor/Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/A.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/A.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/B.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/B.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDDemo.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDemo$1.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDemo$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDemo.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/EDemo.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/EDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/PDemo.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/PDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/PersonThread.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/PersonThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/Player.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/Player.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/Racer.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/Racer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/SeDemo.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/SeDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/Worker.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/Worker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/mutiThrad.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/mutiThrad.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="D:\IDEA\offer\src\main\java\com\liu\SwordOffer\lesson03\DoublePower.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\IDEA\offer\src\main\java\com\liu\SwordOffer\lesson03\HasSubTree.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/liu/SwordOffer/lesson02/MinTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/liu/SwordOffer/lesson02/MinTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/liu/SwordOffer/lesson02/WeiCalculateTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/liu/SwordOffer/lesson02/WeiCalculateTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/liu/SwordOffer/lesson01/test3Test.java" afterPath="$PROJECT_DIR$/src/test/java/com/liu/SwordOffer/lesson01/test3Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/offer.iml" afterPath="$PROJECT_DIR$/offer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/main.iml" afterPath="$PROJECT_DIR$/src/main/main.iml" />
+      <change type="MOVED" beforePath="D:\IDEA\offer\src\main\java\com\liu\SwordOffer\lesson01\orderedArrayFound.java" afterPath="$PROJECT_DIR$/src/main/java/com/liu/SwordOffer/orderedArrayFound.java" />
+      <change type="MOVED" beforePath="D:\IDEA\offer\src\main\java\com\liu\SwordOffer\lesson02\BinaryTreeBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/com/liu/SwordOffer/BinaryTreeBuilder.java" />
+      <change type="MOVED" beforePath="D:\IDEA\offer\src\main\java\com\liu\SwordOffer\lesson02\GetFibonacciNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/liu/SwordOffer/GetFibonacciNumber.java" />
+      <change type="MOVED" beforePath="D:\IDEA\offer\src\main\java\com\liu\SwordOffer\lesson02\Min.java" afterPath="$PROJECT_DIR$/src/main/java/com/liu/SwordOffer/Min.java" />
+      <change type="MOVED" beforePath="D:\IDEA\offer\src\main\java\com\liu\SwordOffer\lesson02\SortAges.java" afterPath="$PROJECT_DIR$/src/main/java/com/liu/SwordOffer/SortAges.java" />
+      <change type="MOVED" beforePath="D:\IDEA\offer\src\main\java\com\liu\SwordOffer\lesson02\WeiCalculate.java" afterPath="$PROJECT_DIR$/src/main/java/com/liu/SwordOffer/WeiCalculate.java" />
+      <change type="MOVED" beforePath="D:\IDEA\offer\src\main\java\com\liu\SwordOffer\lesson02\quickSortClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/liu/SwordOffer/quickSortClass.java" />
+      <change type="MOVED" beforePath="D:\IDEA\offer\src\main\java\com\liu\SwordOffer\lesson02\quickSortClass2.java" afterPath="$PROJECT_DIR$/src/main/java/com/liu/SwordOffer/quickSortClass2.java" />
+      <change type="MOVED" beforePath="D:\IDEA\offer\src\main\java\com\liu\SwordOffer\lesson03\DoublePower.java" afterPath="$PROJECT_DIR$/src/main/java/com/liu/SwordOffer/DoublePower.java" />
+      <change type="MOVED" beforePath="D:\IDEA\offer\src\main\java\com\liu\SwordOffer\lesson03\HasSubTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/liu/SwordOffer/HasSubTree.java" />
     </list>
     <ignored path="offer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -149,27 +48,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ConsistentHash.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/ConsistentHashingAlgorithm/Case02/ConsistentHash.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/offer/_360/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56116724">
-              <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#433#445#0" expanded="true" />
-                <element signature="e#1860#1869#0" expanded="true" />
-                <element signature="e#2017#2035#0" expanded="true" />
-                <element signature="e#2107#2115#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.5588236">
-              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.5409583">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -187,6 +70,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -232,7 +118,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/liu/NiuKe/ABTalk.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/NiuKe/ABTalk1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/NiuKe/BasketBall.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/arrays/TestArrayGeneration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/ALi/Discount.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/ALi/Main.java" />
@@ -247,6 +132,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/BaiYunShan/CountNum.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/ConsistentHashingAlgorithm/Case02/ConsistentHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/Test.java" />
       </list>
     </option>
   </component>
@@ -278,11 +164,14 @@
       </PATH>
     </treeState>
   </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1320" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -321,10 +210,18 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -449,7 +346,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
+              <option name="myItemId" value="SwordOffer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -482,62 +379,9 @@
               <option name="myItemId" value="practice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ConsistentHashingAlgorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Case02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="offer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="offer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="liu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ConsistentHashingAlgorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -590,6 +434,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -622,6 +467,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1051" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="recentsLimit" value="5" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -742,65 +588,6 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
-      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
-      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
-      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
-      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
-      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
-      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
-      <method />
-    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -824,65 +611,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="myFilePath" />
@@ -902,20 +630,53 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
@@ -949,74 +710,12 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="main" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -1061,45 +760,12 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
+      <pass-parent-envs>true</pass-parent-envs>
       <envs />
       <method />
     </configuration>
@@ -1200,6 +866,7 @@
       <workItem from="1463751829446" duration="2868000" />
       <workItem from="1464764603930" duration="183000" />
       <workItem from="1464964389485" duration="642000" />
+      <workItem from="1469981175973" duration="551000" />
     </task>
     <task id="LOCAL-00001" summary="leetCode">
       <created>1456297813874</created>
@@ -1303,7 +970,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183742000" />
+    <option name="totallyTimeSpent" value="184293000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1315,59 +982,60 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.5021322" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25586355" sideWeight="0.5256125" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32664436" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4935484" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1515625" sideWeight="0.47438753" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850778" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2954292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32664436" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277592" sideWeight="0.5021322" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277592" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26610428" sideWeight="0.47438753" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.4935484" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25586355" sideWeight="0.5256125" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32887402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2954292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32850778" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20842217" sideWeight="0.5172798" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32756758" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4935484" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20842217" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2954292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756758" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32826087" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277592" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2954292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20842217" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.4935484" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20842217" sideWeight="0.5172798" order="3" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1392,24 +1060,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/ConsistentHashingAlgorithm/Case02/ConsistentHash.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3359375">
-          <caret line="1122" column="42" selection-start-line="1122" selection-start-column="38" selection-end-line="1122" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/util/AbstractList.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4609375">
-          <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5379464">
-          <caret line="143" column="10" selection-start-line="143" selection-start-column="10" selection-end-line="143" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1424,13 +1089,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33370537">
           <caret line="13" column="28" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/offer/Tencent/MyMultiply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58882684">
-          <caret line="59" column="34" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1469,27 +1127,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36882716">
-          <caret line="243" column="18" selection-start-line="243" selection-start-column="18" selection-end-line="243" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5941358">
-          <caret line="104" column="7" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46256983">
-          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/NiuKe/HuiWen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1504,14 +1141,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/SwordOffer/lesson02/quickSortClass2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/SwordOffer/quickSortClass2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5787546">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/SwordOffer/lesson02/quickSortClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/SwordOffer/quickSortClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42124543">
           <caret line="10" column="21" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="21" />
@@ -1610,20 +1247,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28846154">
-          <caret line="609" column="60" selection-start-line="609" selection-start-column="39" selection-end-line="609" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33216783">
-          <caret line="82" column="35" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1732,13 +1355,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/offer/_360/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="22" selection-start-line="7" selection-start-column="7" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/offer/BaiYunShan/CountNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6633499">
@@ -1748,7 +1364,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5588236">
+        <state vertical-scroll-proportion="0.0">
           <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
           <folding />
         </state>
@@ -1756,15 +1372,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/ConsistentHashingAlgorithm/Case02/ConsistentHash.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56116724">
-          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.27047914">
+          <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#433#445#0" expanded="true" />
-            <element signature="e#1860#1869#0" expanded="true" />
-            <element signature="e#2017#2035#0" expanded="true" />
-            <element signature="e#2107#2115#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/offer/Tencent/MyMultiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61823803">
+          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/offer/_360/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5409583">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>

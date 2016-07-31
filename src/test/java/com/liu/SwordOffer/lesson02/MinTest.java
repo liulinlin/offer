@@ -2,6 +2,7 @@ package com.liu.SwordOffer.lesson02;
 
 import static org.junit.Assert.*;
 
+import com.liu.SwordOffer.Min;
 import org.junit.Test;
 
 public class MinTest {

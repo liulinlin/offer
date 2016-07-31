@@ -1,5 +1,6 @@
 package com.liu.SwordOffer.lesson02;
 
+import com.liu.SwordOffer.WeiCalculate;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
@@ -12,6 +13,6 @@ public class WeiCalculateTest {
     @Test
     public void testNumberOf1_one() throws Exception {
 //        assertEquals(1,WeiCalculate.NumberOf1_thr(8));
-        assertEquals(4,WeiCalculate.NumberOf1_thr(15));
+        assertEquals(4, WeiCalculate.NumberOf1_thr(15));
     }
 }
