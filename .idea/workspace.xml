@@ -2,41 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d189f9a0-0dc0-461b-8ee8-e7b0728e7751" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/liu/leetcode/AddBinary.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/ABTalk.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/ABTalk.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/ABTalk1.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/ABTalk1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/Cmp$Node.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/Cmp$Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/MaxSpace.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/MaxSpace.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/AddDigits.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/AddDigits.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ContainsDuplicate.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ContainsDuplicate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MaximumDepthOfBinaryTree$TreeNode.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MaximumDepthOfBinaryTree$TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/NimGame.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/NimGame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ReverseLinkedList.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ReverseLinkedList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2$1.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2$2.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/Test.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/AbstractTemplate.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/AbstractTemplate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/Girl.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/Girl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/JoinerTest.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/JoinerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/testMultset.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/testMultset.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/LittlePractice01.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/LittlePractice01.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Practice.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Practice.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/reflect/ClassUtil.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/reflect/ClassUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC1$Run.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC1$Run.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC2$Run.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC2$Run.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC3$Run.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC3$Run.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintATask.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintATask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintBTask.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintBTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintCTask.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintCTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/ThreadPoolExecutor/Test.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/ThreadPoolExecutor/Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDemo$1.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDemo$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDemo.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/mutiThrad.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/mutiThrad.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/liu/leetcode/RansomNote.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/liu/leetcode/AddBinary.java" afterPath="$PROJECT_DIR$/src/main/java/com/liu/leetcode/AddBinary.java" />
     </list>
     <ignored path="offer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,7 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/_360/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/_360/JuZhen.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/_360/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/_360/Main2.java" />
@@ -142,8 +109,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/ConsistentHashingAlgorithm/Case02/ConsistentHash.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/leetcode/AddBinary.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/leetcode/AddBinary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/leetcode/RansomNote.java" />
       </list>
     </option>
   </component>
@@ -318,6 +286,80 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -366,27 +408,7 @@
       <recent name="com.liu.practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddBinary">
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.liu.offer.JD.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.liu.offer.JD.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="main" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.RansomNote">
     <configuration default="false" name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -455,6 +477,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.liu.leetcode.AddBinary" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RansomNote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.liu.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.liu.leetcode.RansomNote" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -854,19 +896,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.RotateArray" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main3" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestIntBuffer" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CountNum" />
-      <item index="5" class="java.lang.String" itemvalue="Application.AddBinary" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main3" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestIntBuffer" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CountNum" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AddBinary" />
+      <item index="5" class="java.lang.String" itemvalue="Application.RansomNote" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.AddBinary" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CountNum" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestIntBuffer" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main3" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RansomNote" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AddBinary" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CountNum" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestIntBuffer" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
   </component>
@@ -927,7 +969,7 @@
       <workItem from="1464764603930" duration="183000" />
       <workItem from="1464964389485" duration="642000" />
       <workItem from="1469981175973" duration="551000" />
-      <workItem from="1470911763403" duration="4138000" />
+      <workItem from="1470911763403" duration="12694000" />
     </task>
     <task id="LOCAL-00001" summary="leetCode">
       <created>1456297813874</created>
@@ -1013,7 +1055,14 @@
       <option name="project" value="LOCAL" />
       <updated>1470964181279</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="leetCode">
+      <created>1470964337907</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1470964337907</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1049,7 +1098,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188431000" />
+    <option name="totallyTimeSpent" value="196987000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1451,18 +1500,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/leetcode/AddBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/leetcode/AddBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="123" column="38" selection-start-line="123" selection-start-column="38" selection-end-line="123" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_11/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="2364" column="31" selection-start-line="2364" selection-start-column="24" selection-end-line="2364" selection-end-column="31" />
+          <folding>
+            <element signature="e#94239#94240#0" expanded="true" />
+            <element signature="e#94277#94278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/leetcode/RansomNote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
