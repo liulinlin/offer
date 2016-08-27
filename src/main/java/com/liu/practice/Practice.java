@@ -13,13 +13,13 @@ import java.util.Iterator;
  */
 public class Practice {
     public static void main(String[] args) {
-//        int[] tt = {1, 2, 10, 4, 5, 6, 1, 2, 10, 4, 5};
-//        Practice.getSingleNumber(tt);
-//        testValue();
-//        testValueInterger();
-//        testValueObject();
-//        testValueArray();
-//        IntTest();
+        int[] tt = {1, 2, 10, 4, 5, 6, 1, 2, 10, 4, 5};
+        Practice.getSingleNumber(tt);
+        testValue();
+        testValueInterger();
+        testValueObject();
+        testValueArray();
+        IntTest();
     }
     /*
     实验 proxy
