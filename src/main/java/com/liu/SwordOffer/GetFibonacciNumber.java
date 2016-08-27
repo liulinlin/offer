@@ -1,4 +1,4 @@
-package com.liu.SwordOffer.lesson02;
+package com.liu.SwordOffer;
 
 /**
  * Created by Administrator on 2016/2/26.

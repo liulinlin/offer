@@ -2,8 +2,123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d189f9a0-0dc0-461b-8ee8-e7b0728e7751" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/liu/offer/BaiYunShan/CountNum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/liu/practice/ConsistentHashingAlgorithm/Case02/ConsistentHash.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/ABTalk.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/ABTalk.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/ABTalk1.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/ABTalk1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/BasketBall.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/BasketBall.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/Cmp$Node.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/Cmp$Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/Cmp.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/Cmp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/Finder.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/Finder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/HuiWen.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/HuiWen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/MaxSpace.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/MaxSpace.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/MoveTable.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/MoveTable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/PaoTaiDaRen.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/PaoTaiDaRen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/SaoMiaoTouJing.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/SaoMiaoTouJing.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/XiaoMingDaGuai.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/NiuKe/XiaoMingDaGuai.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/AddDigits.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/AddDigits.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/AddTwoNumbers$ListNode.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/AddTwoNumbers$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/AddTwoNumbers.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/AddTwoNumbers.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ClimbingStairs.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ClimbingStairs.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ContainsDuplicate.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ContainsDuplicate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ContainsDuplicateII.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ContainsDuplicateII.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ExcelSheetColumnNumber.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ExcelSheetColumnNumber.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/FactorialTrailingZeroes.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/FactorialTrailingZeroes.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/FindMedianSortedArrays.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/FindMedianSortedArrays.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/HappyNumber.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/HappyNumber.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/HouseRobber.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/HouseRobber.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/LengthOfLongestSubstring.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/LengthOfLongestSubstring.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ListNode.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MajorityElement.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MajorityElement.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MaximumDepthOfBinaryTree$TreeNode.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MaximumDepthOfBinaryTree$TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MaximumDepthOfBinaryTree.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MaximumDepthOfBinaryTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MergeSortedArray.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MergeSortedArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MergeTwoSortedLists.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MergeTwoSortedLists.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MoveZeroes.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MoveZeroes.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MyQueue.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/MyQueue.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/NimGame.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/NimGame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/NumberOf1Bits.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/NumberOf1Bits.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PascalTriangle.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PascalTriangle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PascalTriangleII.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PascalTriangleII.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PlusOne.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PlusOne.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PowerOfTwo.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/PowerOfTwo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/RemoveElement.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/RemoveElement.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ReverseLinkedList.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/ReverseLinkedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/Roman2Integer.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/Roman2Integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/RotateArray.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/RotateArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/Triangle.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/Triangle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/TwoSum.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/TwoSum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/UglyNumber.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/UglyNumber.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/UniquePaths.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/UniquePaths.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/UniquePathsWithObstacles.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/UniquePathsWithObstacles.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/WordSearch.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/leetcode/WordSearch.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2$1.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2$2.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main3.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/JD/Main3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/Tencent/MyMultiply.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/Tencent/MyMultiply.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/JuZhen.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/JuZhen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/Main.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/Main2.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/Main2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/Test.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/offer/_360/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/pattern/singleton/Client.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/pattern/singleton/Client.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/pattern/singleton/Singleton01.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/pattern/singleton/Singleton01.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/pattern/singleton/Singleton02.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/pattern/singleton/Singleton02.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/AbstractTemplate.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/AbstractTemplate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/Client.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/Client.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/ConcreteTemplate.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/ConcreteTemplate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/ConcreteTemplate2.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/pattern/template/ConcreteTemplate2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/BitOperate.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/BitOperate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/CalculatePath$Obstacle.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/CalculatePath$Obstacle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/CalculatePath$Point.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/CalculatePath$Point.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/CalculatePath.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/CalculatePath.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/Girl.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/Girl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/Immutable.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/Immutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/JoinerTest.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/JoinerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/Ordering01.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/Ordering01.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/testMultset.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Guava/testMultset.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/LittlePractice01.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/LittlePractice01.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Person.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Person.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/Practice.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/Practice.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/annotation/Person.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/annotation/Person.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/annotation/Test.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/annotation/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/reflect/ClassTest.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/reflect/ClassTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/reflect/ClassUtil.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/reflect/ClassUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/serializable/Person.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/serializable/Person.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/serializable/PersonTest.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/base/serializable/PersonTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC1$Run.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC1$Run.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC1.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC2$Run.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC2$Run.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC2.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC3$Run.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC3$Run.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC3.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintATask.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintATask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintBTask.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintBTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintCTask.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4$PrintCTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/PrintABC4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/ThreadPoolExecutor/MyTask.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/ThreadPoolExecutor/MyTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/ThreadPoolExecutor/Test.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/ThreadPoolExecutor/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/A.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/A.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/B.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/B.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDDemo.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDemo$1.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDemo$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDemo.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/CDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/EDemo.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/EDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/PDemo.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/PDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/PersonThread.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/PersonThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/Player.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/Player.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/Racer.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/Racer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/SeDemo.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/SeDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/Worker.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/concurrent/semaphore/Worker.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/main/com/liu/practice/mutiThrad.class" afterPath="$PROJECT_DIR$/out/production/main/com/liu/practice/mutiThrad.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/offer.iml" afterPath="$PROJECT_DIR$/offer.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/main.iml" afterPath="$PROJECT_DIR$/src/main/main.iml" />
     </list>
     <ignored path="offer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,17 +137,45 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="DatabaseView">
-    <option name="FLATTEN" value="false" />
-    <option name="GROUP_BY_TYPE" value="true" />
-    <option name="SORT_CHILDREN" value="false" />
-    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="offer" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="ConsistentHash.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/ConsistentHashingAlgorithm/Case02/ConsistentHash.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.56116724">
+              <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#433#445#0" expanded="true" />
+                <element signature="e#1860#1869#0" expanded="true" />
+                <element signature="e#2017#2035#0" expanded="true" />
+                <element signature="e#2107#2115#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.5588236">
+              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,6 +196,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/concurrent/ThreadPoolExecutor/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/concurrent/PrintABC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/_360/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/_360/JuZhen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/_360/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/_360/Main2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/Tencent/MyMultiply.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/BitOperate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/mutiThrad.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/Main1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/NiuKe/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/NiuKe/MaxSpace.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/base/BasketBall.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/NiuKe/HuiWen.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/NiuKe/Finder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/SwordOffer/lesson02/quickSortClass.java" />
@@ -87,23 +244,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/NIODemo/TestIntBuffer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/ThinkInJava/annotations/InterfaceExtractorProcessorFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/Practice.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/RedisPractece/RedisConnect.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/RedisPractece/RedisString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/RedisPractece/RedisJava.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/extendsTest/Child.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/ConsistentHashingAlgorithm/Case02/ConsistentHash.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/extendsTest/Parents.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/extendsTest/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter04.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter05.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter06.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter07.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter08.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/offer/BaiYunShan/CountNum.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter02.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter09.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/practice/ConsistentHashingAlgorithm/Case02/ConsistentHash.java" />
       </list>
     </option>
   </component>
@@ -115,8 +258,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="/usr/local/repository" />
-        <option name="mavenHome" value="/usr/local/apache-maven-3.3.9" />
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.3/bin" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -132,34 +275,14 @@
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="offer" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="offer" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
       </PATH>
     </treeState>
   </component>
-  <component name="NamedScopeManager">
-    <order />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="24" />
-    <option name="width" value="1366" />
-    <option name="height" value="697" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -198,6 +321,8 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="ProjectPane">
@@ -268,6 +393,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -302,8 +449,90 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="redis" />
+              <option name="myItemId" value="practice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConsistentHashingAlgorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Case02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConsistentHashingAlgorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -361,29 +590,19 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.49195403" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2816092" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="SearchEverywhereHistoryKey" value="abstrac&#9;FILE&#9;jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/util/AbstractList.java" />
     <property name="extract.method.default.visibility" value="private" />
@@ -403,9 +622,6 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1051" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
-    <property name="recentsLimit" value="5" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="ToolWindowAnt Build.ShowToolbar" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -419,7 +635,67 @@
       <recent name="com.liu.practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.CountNum">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.liu.offer.JD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.liu.offer.JD.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.liu.offer.JD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.liu.offer.JD.Main2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.liu.offer.JD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.liu.offer.JD.Main3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="main" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="false" name="TestIntBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -440,14 +716,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="RedisConnect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="CountNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.liu.RedisPractece.*" />
+          <option name="PATTERN" value="com.liu.offer.BaiYunShan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.liu.RedisPractece.RedisConnect" />
+      <option name="MAIN_CLASS_NAME" value="com.liu.offer.BaiYunShan.CountNum" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -460,64 +736,10 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="RedisString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.liu.RedisPractece.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.liu.RedisPractece.RedisString" />
-      <option name="VM_PARAMETERS" />
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="main" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="RedisJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.liu.RedisPractece.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.liu.RedisPractece.RedisJava" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="main" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.liu.practice.extendsTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.liu.practice.extendsTest.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="main" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -538,6 +760,15 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -559,6 +790,15 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -584,6 +824,65 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="myFilePath" />
@@ -603,55 +902,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -666,6 +916,16 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -689,15 +949,74 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
       <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -742,12 +1061,45 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
-      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
       <envs />
       <method />
     </configuration>
@@ -779,19 +1131,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.RotateArray" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestIntBuffer" />
-      <item index="2" class="java.lang.String" itemvalue="Application.RedisConnect" />
-      <item index="3" class="java.lang.String" itemvalue="Application.RedisString" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RedisJava" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main3" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestIntBuffer" />
+      <item index="5" class="java.lang.String" itemvalue="Application.CountNum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RedisJava" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RedisString" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RedisConnect" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestIntBuffer" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CountNum" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestIntBuffer" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main3" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -844,13 +1196,10 @@
       <workItem from="1460860537123" duration="912000" />
       <workItem from="1461148958028" duration="4932000" />
       <workItem from="1463241685709" duration="3510000" />
-      <workItem from="1463296412414" duration="2792000" />
-      <workItem from="1464439461141" duration="913000" />
-      <workItem from="1464440413066" duration="2078000" />
-      <workItem from="1464442756690" duration="453000" />
-      <workItem from="1464763838242" duration="4085000" />
-      <workItem from="1468076604348" duration="2161000" />
-      <workItem from="1472285897822" duration="1221000" />
+      <workItem from="1463296412414" duration="2829000" />
+      <workItem from="1463751829446" duration="2868000" />
+      <workItem from="1464764603930" duration="183000" />
+      <workItem from="1464964389485" duration="642000" />
     </task>
     <task id="LOCAL-00001" summary="leetCode">
       <created>1456297813874</created>
@@ -913,24 +1262,12 @@
       <updated>1463295871057</updated>
     </task>
     <task id="LOCAL-00011" summary="leetCode">
-      <created>1468076830557</created>
+      <created>1463495737948</created>
       <option name="number" value="00011" />
       <option name="project" value="LOCAL" />
-      <updated>1468076830557</updated>
+      <updated>1463495737948</updated>
     </task>
-    <task id="LOCAL-00012" summary="leetCode">
-      <created>1472287066395</created>
-      <option name="number" value="00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1472287066395</updated>
-    </task>
-    <task id="LOCAL-00013" summary="leetCode">
-      <created>1472287113264</created>
-      <option name="number" value="00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1472287113264</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -966,7 +1303,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190923000" />
+    <option name="totallyTimeSpent" value="183742000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -978,36 +1315,60 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1366" height="697" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25493172" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29333332" sideWeight="0.5030349" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21669106" sideWeight="0.5448718" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.325" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32833335" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.4935484" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852808" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21320182" sideWeight="0.4551282" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29333332" sideWeight="0.4969651" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32833335" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.5021322" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25586355" sideWeight="0.5256125" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32664436" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4935484" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1515625" sideWeight="0.47438753" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850778" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2954292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
+    <layout-to-restore>
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20842217" sideWeight="0.5172798" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32756758" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4935484" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20842217" sideWeight="0.48272017" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2954292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1026,19 +1387,106 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
+    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3359375">
+          <caret line="1122" column="42" selection-start-line="1122" selection-start-column="38" selection-end-line="1122" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4609375">
+          <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5379464">
+          <caret line="143" column="10" selection-start-line="143" selection-start-column="10" selection-end-line="143" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/offer/_360/JuZhen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56473213">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/offer/_360/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33370537">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/offer/Tencent/MyMultiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58882684">
+          <caret line="59" column="34" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/BitOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/mutiThrad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/offer/_360/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38734567">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/NiuKe/MoveTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6388889">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/NiuKe/MaxSpace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.56790125">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36882716">
+          <caret line="243" column="18" selection-start-line="243" selection-start-column="18" selection-end-line="243" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.5941358">
+          <caret line="104" column="7" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46256983">
+          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1137,13 +1585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/offer/_360/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17281106">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/offer/JD/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21777004">
@@ -1169,6 +1610,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28846154">
+          <caret line="609" column="60" selection-start-line="609" selection-start-column="39" selection-end-line="609" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/java8/jdk1.8.0_11/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33216783">
+          <caret line="82" column="35" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1270,174 +1725,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/97c5fc2f-b8b0-449c-a1a6-ea8c7ab7d6aa/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/RedisPractece/RedisJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#267#268#0" expanded="false" />
-            <element signature="e#294#295#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04812834">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/Practice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45964912">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.10471807">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/offer/_360/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="22" selection-start-line="7" selection-start-column="7" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/offer/BaiYunShan/CountNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6633499">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5588236">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/ConsistentHashingAlgorithm/Case02/ConsistentHash.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38502672">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/extendsTest/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5939086">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/extendsTest/Child.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4568528">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/practice/extendsTest/Parents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45177665">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6842105">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.078947365">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2631579">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.078947365">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.078947365">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31578946">
-          <caret line="364" column="27" selection-start-line="364" selection-start-column="27" selection-end-line="364" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.56116724">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#433#445#0" expanded="true" />
+            <element signature="e#1860#1869#0" expanded="true" />
+            <element signature="e#2017#2035#0" expanded="true" />
+            <element signature="e#2107#2115#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31578946">
-          <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/redis/Chapter01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.608">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3526#3546#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.2034883">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/main/com/liu/practice/Practice.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#4049#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.6613336">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1493,18 +1820,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2816092" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="Copyright.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2816092" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1516,7 +1832,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.49195403" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1547,11 +1863,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>test</last-edited>
+          <last-edited>offer</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.49195403" />
+                <option value="0.2816092" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1571,18 +1888,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: redis.clients:jedis:2.8.1</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.49195403" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
+          <last-edited>Maven: com.google.guava:guava:18.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,4 +1,4 @@
-package com.liu.SwordOffer.lesson01;
+package com.liu.SwordOffer;
 
 public class orderedArrayFound 
 {
