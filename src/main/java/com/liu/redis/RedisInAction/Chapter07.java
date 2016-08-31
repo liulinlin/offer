@@ -1,4 +1,4 @@
-package com.liu.redis;
+package com.liu.redis.RedisInAction;
 import org.javatuples.Pair;
 import redis.clients.jedis.*;
 

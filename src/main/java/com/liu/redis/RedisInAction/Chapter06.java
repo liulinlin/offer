@@ -1,4 +1,4 @@
-package com.liu.redis;
+package com.liu.redis.RedisInAction;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import redis.clients.jedis.Jedis;
