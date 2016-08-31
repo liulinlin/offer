@@ -1,8 +1,7 @@
 # offer
 代码练习
 
-
-##leetcode：
+leetcode：
     leetcode 网站一些题目的解法
 ConsumerAndProduction：
     生产者消费者模式的几种Java实现
