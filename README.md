@@ -22,11 +22,3 @@ Redis：
 	Redis学习记录 
 	redispractice： 练习 
 SwordOffer： 剑指offer题目练习
-Redis：
-    Redis学习记录
-    RedisInAction :
-        Redis 实战 源码
-    redispractice：
-        练习
-SwordOffer：
-    剑指offer题目练习
