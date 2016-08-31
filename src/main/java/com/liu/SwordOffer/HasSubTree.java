@@ -1,6 +1,6 @@
 package com.liu.SwordOffer;
 
-import com.liu.utils.BinaryTreeNode;
+import com.liu.SwordOffer.utils.BinaryTreeNode;
 
 /**
  * Created by 刘林林 on 2016/2/28.

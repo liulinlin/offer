@@ -1,4 +1,4 @@
-package com.liu.RedisPractece;
+package com.liu.redis.redispractice;
 
 import redis.clients.jedis.Jedis;
 
