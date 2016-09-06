@@ -139,11 +139,35 @@ public class HashMapTest {
             map.computeIfPresent(key, function);
         }
         map.computeIfPresent("11111", function);
-        System.out.println("======================map after computeIfPresent = " + map);
+        System.out.println("map after computeIfPresent = " + map);
         map.computeIfPresent("1", (k, v) -> {
             return null;
         }); // mapping will be removed
         System.out.println("map after computeIfPresent = " + map);
+
+        /*
+        compute
+        If you want to apply a function on all the mappings based on it’s key and value, then compute method should be used.
+        If there is no mapping and this method is used, value will be null for compute function.
+        上面两种方法的结合，无论是key 存在 不存在 ，value 为空 不为空，都进行计算，
+        一样的是 计算为null，则将 K/V删除
+         */
+        map = new HashMap<>();
+        map.put("1", "1");
+        map.put("2", "2");
+        map.put(null, "10");
+        map.put("10", null);
+        System.out.println("======================map before compute = "+map);
+        // 下面这个 很容易 爆出ConcurrentModificationException 错误
+        // 若将 return k+v 改为 return null 就会出现这个错误
+        //  原因是 hashmap 是 fast-fail机制，在 String key : map.keySet() 的遍历过程中发现 删除了 key/value(因为结果返回null，将键值对删除),
+        // 所以就爆出这么个错误。
+        for (String key : map.keySet()) {
+            map.compute(key, (k,v) -> {return k+v;});
+        }
+        map.compute("5", (k,v) -> {return null;}); //key not present, v = null
+        map.compute("1", (k,v) -> {return null;}); //key  present, v not null but  compute result is null
+        System.out.println("======================map after compute = "+map);
 
         // 如果不给 TreeMap 传入比较器 TreeMap就按照默认的排序器升序排列。
         // 排序只能按照Key进行排序 ，如果需要按照值进行排序，需要自己实现。
