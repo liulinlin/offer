@@ -1,4 +1,4 @@
-package com.liu.practice.Guava;
+package com.liu.Guava;
 /** 
 * @author: liulinlin1@jiuxian.com	
 * @since：2016年7月27日 下午5:57:40 

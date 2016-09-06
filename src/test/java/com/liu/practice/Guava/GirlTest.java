@@ -1,8 +1,7 @@
 package com.liu.practice.Guava;
 
+import com.liu.Guava.Girl;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by 刘林林 on 2016/3/5.

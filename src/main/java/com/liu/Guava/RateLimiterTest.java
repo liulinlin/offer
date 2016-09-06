@@ -1,4 +1,4 @@
-package com.liu.practice.Guava;
+package com.liu.Guava;
 
 import com.google.common.util.concurrent.RateLimiter;
 
