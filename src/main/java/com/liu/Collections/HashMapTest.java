@@ -158,7 +158,7 @@ public class HashMapTest {
         map.put(null, "10");
         map.put("10", null);
         System.out.println("======================map before compute = "+map);
-        // 下面这个 很容易 爆出ConcurrentModificationException 错误
+        // 下面这个 很容易 爆出 ConcurrentModificationException 错误
         // 若将 return k+v 改为 return null 就会出现这个错误
         //  原因是 hashmap 是 fast-fail机制，在 String key : map.keySet() 的遍历过程中发现 删除了 key/value(因为结果返回null，将键值对删除),
         // 所以就爆出这么个错误。
