@@ -6,7 +6,6 @@ package com.liu.Collections;
 public class HashSetTest {
 
 	public static void main(String[] args) {
-		// LLL Auto-generated method stub
 
 	}
 
