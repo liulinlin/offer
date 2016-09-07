@@ -20,7 +20,13 @@ import java.util.function.Function;
 public class HashMapTest {
 
     public static void main(String... aaa) {
-        // 每个主要练习 添加，删除，排序，遍历,是否重复
+        // 每个主要练习 创建 添加，删除，排序，遍历,是否重复
+        // 创建
+        Map<String, String> map1 = new HashMap<>();
+        Map<String, String> map2 = new HashMap<>(2^5);
+        Map<String, String> map3 = new HashMap<>(32,0.80f);
+        Map<String,String> map4 = new HashMap<>(map1);
+
         Random random = new Random();
         // HashMap
         Map<String, Integer> hashmap = new HashMap<>();

@@ -9,7 +9,7 @@ public class Girl implements Comparable<Girl> {
     private String name;//名称
     private double height;//身高
     private String face;//长相
-    Girl(String name, double height, String face) {
+    public Girl(String name, double height, String face) {
         this.name = name;
         this.height = height;
         this.face = face;
