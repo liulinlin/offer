@@ -1,4 +1,4 @@
-package com.liu.offer.JD;
+package com.liu.offer.JD._old;
 
 import java.util.Scanner;
 public class Main3 {

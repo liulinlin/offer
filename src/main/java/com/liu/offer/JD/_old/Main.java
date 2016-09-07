@@ -1,4 +1,4 @@
-package com.liu.offer.JD;
+package com.liu.offer.JD._old;
 /**
  * 临近期末，让小东头疼的考试又即将到来了，而且是小东最不喜欢的科目。遗憾的是，小东得知d天后她必须参加此次考试。
  * 小东的父亲对她要求非常严格，要求她立即开始复习功课。为照顾她的情绪，父亲要求她每天该科目的学习时间在iminTime到imaxTime之间，
