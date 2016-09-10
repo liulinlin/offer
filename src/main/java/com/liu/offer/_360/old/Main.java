@@ -1,4 +1,4 @@
-package com.liu.offer._360;
+package com.liu.offer._360.old;
 
 import java.util.ArrayList;
 import java.util.Scanner;
