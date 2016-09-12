@@ -1,4 +1,4 @@
-package com.liu.practice.queueAndDeque;
+package com.liu.Collections.queueAndDeque;
 
 /** 
 * @author: liulinlin1@jiuxian.com	
