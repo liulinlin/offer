@@ -16,7 +16,7 @@ public class CDemo {
         });
 
         new Player(cyclicBarrier,"A").start();
-        new Player(cyclicBarrier,"D").start();
+        new Player(cyclicBarrier,"B").start();
         new Player(cyclicBarrier,"C").start();
     }
 }
@@ -28,9 +28,9 @@ class Player extends Thread{
     }
     public void run(){
         try {
-            System.out.println("正在等待其他玩家");
+            System.out.println("正在等待其他玩家"+getName());
             cyclicBarrier.await();
-            System.out.println("走起。。。。");
+            System.out.println("走起。。。。"+getName());
         } catch (InterruptedException e) {
             e.printStackTrace();
         } catch (BrokenBarrierException e) {
