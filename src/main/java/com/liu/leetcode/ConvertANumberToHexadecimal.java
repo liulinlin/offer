@@ -32,7 +32,9 @@ public class ConvertANumberToHexadecimal {
         if (num == 0) return "0";
         StringBuilder result = new StringBuilder();
         while (num != 0) {
+            // 每四位为一组，15 的二进制为 1111，&操作就是取最后四位的值，根据最后四位的值判断转换成16进制为什么
             result.append(map[(num & 15)]);
+            // 右移四位，最高位补0
             num >>>= 4;
         }
         return result.reverse().toString();
