@@ -11,7 +11,7 @@ import java.util.stream.IntStream;
  */
 public class ListTest {
     public static void main(String[] args) {
-        test();
+
     }
 
     public static void mainOperation(){
@@ -111,8 +111,24 @@ public class ListTest {
         }
     }
 
+    public static void splitTest(){
+        List<String> input = new ArrayList<>();
+        input.add("a");
+        input.add("b");
+        input.add("#");
+        input.add("c");
+        input.add("#");
+        input.add("d");
+        input.add("e");
+        input.add("#");
+        input.add("f");
+        List<List<String>> data = split(input,i->i.equals("#"));
+        System.out.println(data);
+    }
+
     public static <T> List<List<T>> split(List<T> input , Predicate<T> predicate){
         int[] edges = IntStream.range(-1,input.size()+1).filter(i->i==-1||i==input.size()||predicate.test(input.get(i))).toArray();
+        System.out.println(Arrays.toString(edges));
         return IntStream.range(0,edges.length-1).mapToObj(k->input.subList(edges[k]+1,edges[k+1])).collect(Collectors.toList());
     }
 
