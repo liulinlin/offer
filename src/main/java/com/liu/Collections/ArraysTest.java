@@ -13,6 +13,9 @@ import java.util.stream.Collectors;
  */
 public class ArraysTest {
     public static void main(String[] args) {
+    }
+
+    public static void mainTest() {
         int[] data = {1, 2, 3, 4, 5, 6, 7, 8, 9};
         Arrays.toString(data);
 //        // 排序 正序
@@ -34,9 +37,10 @@ public class ArraysTest {
 //        // we can use binary operators as prefix in parallel
 //        Arrays.parallelPrefix(data, binaryOperator);
 //        // also using lambdas
-        Arrays.parallelPrefix(data, (x, y) -> x+y);
+        Arrays.parallelPrefix(data, (x, y) -> x + y);
         for (int i = 0; i < data.length; i++) {
-            System.out.println(data[i]+" ");;
+            System.out.println(data[i] + " ");
+            ;
         }
         Arrays.toString(data);
 //
@@ -51,7 +55,13 @@ public class ArraysTest {
 ////        忽略大小写反向排序 Case-insensitive reverse-order sort
 //        Arrays.sort(strArray, String.CASE_INSENSITIVE_ORDER);
 //        Collections.reverse(Arrays.asList(strArray));
-
-
     }
+
+    // 并行将String 数组 转换为大写
+    public static String[] toUpperString(String[] input) {
+        return Arrays.stream(input).map(String::toUpperCase).toArray(String[]::new);
+    }
+
+
+
 }
