@@ -1,12 +1,20 @@
 package com.liu.Collections;
 
 import java.util.*;
+import java.util.function.Predicate;
+import java.util.stream.Collector;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 /**
  * Created by liulinlin1 on 2016/9/6.
  */
 public class ListTest {
     public static void main(String[] args) {
+        test();
+    }
+
+    public static void mainOperation(){
         String[] vowelarray = {"a", "e", "i", "o", "u"};
 
         List<String> vowelsList = Arrays.asList(vowelarray);
@@ -101,5 +109,16 @@ public class ListTest {
         while(iterator.hasNext()){
             int x = (int) iterator.next(); //ConcurrentModificationException hereif(x==1) list.add(10);
         }
+    }
+
+    public static <T> List<List<T>> split(List<T> input , Predicate<T> predicate){
+        int[] edges = IntStream.range(-1,input.size()+1).filter(i->i==-1||i==input.size()||predicate.test(input.get(i))).toArray();
+        return IntStream.range(0,edges.length-1).mapToObj(k->input.subList(edges[k]+1,edges[k+1])).collect(Collectors.toList());
+    }
+
+    public static void test(){
+        String [] tt = {"1","2","3","4","5","6"};
+        List<String> test = Arrays.asList(tt) ;
+        System.out.println(test.subList(0,6));
     }
 }
