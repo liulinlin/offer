@@ -38,15 +38,4 @@ public class SumOfLeftLeaves {
         int l = (root.left != null && root.left.left == null && root.left.right == null) ? root.left.val : sumOfLeftLeaves1(root.left);
         return l + sumOfLeftLeaves1(root.right);
     }
-
-
-    static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 }

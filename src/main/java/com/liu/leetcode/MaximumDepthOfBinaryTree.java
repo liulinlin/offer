@@ -39,14 +39,4 @@ public class MaximumDepthOfBinaryTree {
         }
         return 1 + Math.max(maxDepth1(root.left), maxDepth1(root.right));
     }
-
-    static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 }
