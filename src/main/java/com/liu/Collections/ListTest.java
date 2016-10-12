@@ -14,7 +14,7 @@ public class ListTest {
 
     }
 
-    public static void mainOperation(){
+    public static void mainOperation() {
         String[] vowelarray = {"a", "e", "i", "o", "u"};
 
         List<String> vowelsList = Arrays.asList(vowelarray);
@@ -98,20 +98,20 @@ public class ListTest {
         System.out.println("\n" + list);
         //modification of list using iterator
         iterator = list.iterator();
-        while(iterator.hasNext()){
+        while (iterator.hasNext()) {
             int x = (int) iterator.next();
-            if(x%2 ==0) iterator.remove();
+            if (x % 2 == 0) iterator.remove();
         }
         System.out.println(list);
 
         //changing list structure while iterating
         iterator = list.iterator();
-        while(iterator.hasNext()){
+        while (iterator.hasNext()) {
             int x = (int) iterator.next(); //ConcurrentModificationException hereif(x==1) list.add(10);
         }
     }
 
-    public static void splitTest(){
+    public static void splitTest() {
         List<String> input = new ArrayList<>();
         input.add("a");
         input.add("b");
@@ -122,19 +122,28 @@ public class ListTest {
         input.add("e");
         input.add("#");
         input.add("f");
-        List<List<String>> data = split(input,i->i.equals("#"));
+        List<List<String>> data = split(input, i -> i.equals("#"));
         System.out.println(data);
     }
 
-    public static <T> List<List<T>> split(List<T> input , Predicate<T> predicate){
-        int[] edges = IntStream.range(-1,input.size()+1).filter(i->i==-1||i==input.size()||predicate.test(input.get(i))).toArray();
+    public static <T> List<List<T>> split(List<T> input, Predicate<T> predicate) {
+        int[] edges = IntStream.range(-1, input.size() + 1).filter(i -> i == -1 || i == input.size() || predicate.test(input.get(i))).toArray();
         System.out.println(Arrays.toString(edges));
-        return IntStream.range(0,edges.length-1).mapToObj(k->input.subList(edges[k]+1,edges[k+1])).collect(Collectors.toList());
+        return IntStream.range(0, edges.length - 1).mapToObj(k -> input.subList(edges[k] + 1, edges[k + 1])).collect(Collectors.toList());
     }
 
-    public static void test(){
-        String [] tt = {"1","2","3","4","5","6"};
-        List<String> test = Arrays.asList(tt) ;
-        System.out.println(test.subList(0,6));
+    public static void forEachTest() {
+        List<Integer> list = new ArrayList<>();
+        for (int i = 0; i < 5; i++) list.add(i);
+        System.out.println("list for Each 遍历程序");
+        list.forEach(i -> {
+            System.out.println(i);
+        });
+    }
+
+    public static void test() {
+        String[] tt = {"1", "2", "3", "4", "5", "6"};
+        List<String> test = Arrays.asList(tt);
+        System.out.println(test.subList(0, 6));
     }
 }
