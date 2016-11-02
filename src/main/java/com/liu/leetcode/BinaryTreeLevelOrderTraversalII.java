@@ -26,6 +26,9 @@ import java.util.Queue;
  * @since：2016/10/12
  */
 public class BinaryTreeLevelOrderTraversalII {
+    /*
+    我的解法，比较慢
+     */
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
         List<List<Integer>> result = new ArrayList<>();
         if (root == null) return result;
@@ -47,6 +50,9 @@ public class BinaryTreeLevelOrderTraversalII {
         return result;
     }
 
+    /*
+    大神解法：DFS
+     */
     public static List<List<Integer>> levelOrderBottom1(TreeNode root) {
         Queue<TreeNode> queue = new LinkedList<TreeNode>();
         List<List<Integer>> wrapList = new LinkedList<List<Integer>>();
@@ -74,6 +80,9 @@ public class BinaryTreeLevelOrderTraversalII {
         return wrapList;
     }
 
+    /*
+    大神解法：BFS
+     */
     public static void levelMaker(List<List<Integer>> list, TreeNode root, int level) {
         if (root == null) return;
         if (level >= list.size()) {
