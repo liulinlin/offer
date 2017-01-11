@@ -72,6 +72,25 @@
             <version>2.7</version>
         </dependency>
         <!-- redis end -->
+        <!-- Spring 的一些需要 -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>3.2.4.RELEASE</version>
+        </dependency>
+
+        <!-- JSON -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.23</version>
+        </dependency>
+        <!-- 操作Excel 的jar -->
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi</artifactId>
+            <version>3.15</version>
+        </dependency>
 
     </dependencies>
 </project>

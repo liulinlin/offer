@@ -26,7 +26,7 @@ import java.util.stream.Stream;
 public class Main {
 
 	public static void main(String[] args) {
-		
+		ConcurrentHashMap<String,String> t;
 		
 		String [] test6 = {"adsasd","adlsalsd","asdasda","alsdkalsd"};
 		System.out.println(Arrays.toString(test6));
