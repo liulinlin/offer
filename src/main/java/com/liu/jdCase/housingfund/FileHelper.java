@@ -10,17 +10,36 @@ import java.io.*;
  * @since: 2017/1/10
  */
 public class FileHelper {
-    private static final String PATH = "C:\\Users\\liulinlin1\\Desktop\\公积金统计\\公积金数据-每个地区10份\\";
 
-    private static final String[] FILE_NAMES = {"sample.1.json",
-            "sample.2.json", "sample.3.json",
-            "sample.4.json", "sample.5.json",
-            "sample.6.json", "sample.7.json",
-            "sample.8.json", "sample.9.json","sample.10.json"
-    };
+    private static final String saveFilePath = "D:\\result.txt";
+    public static void  writeToTxt(String context){
+        File myFilePath = new File(saveFilePath);
+        BufferedWriter bw = null;
+        if (!myFilePath.exists()){
+            try {
+                myFilePath.createNewFile();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+        try {
+            bw = new BufferedWriter(new FileWriter(saveFilePath,true));
+            bw.write(context+"\t\n");
+            bw.close();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+    private static void write(){
 
-    public static JSONObject getContextByFileName(final String cityNum,final int fileNum) {
-        String filepath = PATH + cityNum +"\\" +FILE_NAMES[fileNum];
+    }
+
+
+    public static JSONObject getContextByFileName(final String filepath) {
         File myFilePath = new File(filepath);
         StringBuilder result = new StringBuilder();
         if (myFilePath.exists()) {
@@ -40,7 +59,6 @@ public class FileHelper {
         }
         return null;
     }
-
     private static JSONObject stringToJSONObject(String context) {
         if (context != null)
             return JSON.parseObject(context).getJSONArray("transactions").getJSONObject(0);

@@ -18,7 +18,8 @@ public class Main {
             "连云港", "镇江","烟台", "唐山","秦皇岛"};
     public static void main(String[] args) {
         for (int i = 0; i <CITYS.length; i++) {
-            JSONHelper.getResult(getCityPath(i));
+            String result = JSONHelper.getResult(getCityPath(i));
+            FileHelper.writeToTxt(result);
         }
     }
     private static String getCityPath(int i) {
