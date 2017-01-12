@@ -66,7 +66,7 @@ public class JSONHelper {
                 } else {
                     // 需要去另一个文件里 查看一下是否也是 空的 两个空来来确定
                     if (array_two != null && array_two.size() > 0) {
-                        JSONObject two = array_one.getJSONObject(0);
+                        JSONObject two = array_two.getJSONObject(0);
                         if (getProResult(two, PROPS[i]))
                             result.append("1");
                         else
@@ -76,6 +76,19 @@ public class JSONHelper {
                     }
                 }
                 result.append(",");
+            }
+        }else {
+            if (array_two != null && array_two.size() > 0){
+                JSONObject object = array_two.getJSONObject(0);
+                for (; i < PROPS.length; i++) {
+                    result.append(PROPS[i]).append(":");
+                    if (getProResult(object, PROPS[i])) {
+                        result.append("1");
+                    }else {
+                        result.append("0");
+                    }
+                    result.append(",");
+                }
             }
         }
         if (array_one.size() == 0 && array_two.size() == 0) {
