@@ -22,6 +22,11 @@ public enum EnumTest {
      */
     OMS;
 
+    /**
+     * 这个方法感觉没必要 因为有 EnumTest.values() 方法的存在 直接就是对那个方法的重写。
+     * @param str
+     * @return
+     */
     public static EnumTest getByString(String str) {
         if (str != null) {
             try {
