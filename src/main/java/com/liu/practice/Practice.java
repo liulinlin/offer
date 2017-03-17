@@ -1,5 +1,7 @@
 package com.liu.practice;
 
+import com.google.common.base.Objects;
+
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
@@ -11,7 +13,8 @@ import java.util.Iterator;
 /**
  * Created by 刘林林 on 2016/3/2.
  */
-public class Practice {
+public class Practice{
+    public Person p;
     public static void main(String[] args) {
         int[] tt = {1, 2, 10, 4, 5, 6, 1, 2, 10, 4, 5};
         Practice.getSingleNumber(tt);
